@@ -1,4 +1,6 @@
 -- File: xor.vhd
+-- Pavel Azarenko EIF-16/1
+--ujhjkghklhjkl
 library ieee;
 use ieee.std_logic_1164.all;
 
